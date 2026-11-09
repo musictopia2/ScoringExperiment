@@ -1,8 +1,9 @@
 {
-  "name": "ScoringExperiment",
-  "short_name": "ScoringExperiment",
-  "id": "./",
-  "start_url": "./",
+  "name": "Scoring Experiment",
+  "short_name": "Scoring",
+  "id": "/scoring/",
+  "start_url": "/scoring/",
+  "scope": "/scoring/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
